@@ -30,3 +30,7 @@ func init() {
 	//beego.Router("/search",&controllers.ReController{},"post:Search")
 	beego.AddNamespace(ns)
 }
+
+jkljkljgfhgfsh
+gfhgfhfdgh
+fdghgh
